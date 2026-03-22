@@ -1,4 +1,4 @@
-# Olá, eu sou Wallace Alberto Monsores 👋
+# Olá, eu sou Wallace
 
 Estudante de tecnologia focado em **desenvolvimento backend** e construção de **APIs REST**.  
 Atualmente estou desenvolvendo projetos práticos para melhorar minhas habilidades.
