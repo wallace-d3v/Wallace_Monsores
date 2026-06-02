@@ -1,32 +1,80 @@
 # Olá, eu sou Wallace
 
-Estudante de tecnologia focado em **desenvolvimento backend** e construção de **APIs REST**.  
-Atualmente estou desenvolvendo projetos práticos para melhorar minhas habilidades.
+Estudante de tecnologia focado em **desenvolvimento backend**, construção de **APIs REST** e criação de soluções web práticas.  
+Atualmente estou desenvolvendo projetos reais para evoluir minhas habilidades e montar um portfólio profissional.
 
 ---
 
-## 🚀 Tecnologias e Ferramentas
+## 🚀 Linguagens e Ferramentas
 
-Atualmente estudando e utilizando:
+### Linguagens
+
+- JavaScript
+- Java
+- Python
+- C
+- PHP
+- SQL
+- HTML5
+- CSS3
+
+### Backend
 
 - Node.js
 - Express
+- Java com Spring Boot
+- APIs REST
+- Autenticação com JWT
+- Criptografia de senhas
+
+### Frontend
+
+- React
+- Vite
+- PWA
+- JavaScript moderno
+- HTML semântico
+- CSS responsivo
+
+### Banco de Dados
+
 - MySQL
-- Java
-- Spring Boot
-- JavaScript
-- Git e GitHub
-- php
+- PostgreSQL
+- IndexedDB
+
+### Ferramentas e Plataformas
+
+- Git
+- GitHub
+- GitHub Pages
+- GitHub Actions
+- VS Code
+- Insomnia/Postman
+- NPM
+
+---
+
+## 📌 Atualmente estudando
+
+- Arquitetura de backend
+- Desenvolvimento de APIs escaláveis
+- Banco de dados relacional
+- React e aplicações PWA
+- Kotlin para desenvolvimento Android
+- Boas práticas de versionamento com Git e GitHub
 
 ---
 
 ## 🎯 Objetivo
 
-Busco uma oportunidade de estágio em desenvolvimento de software para aplicar na prática meus conhecimentos em backend, APIs REST e bancos de dados.
+Busco uma oportunidade de estágio ou vaga inicial em desenvolvimento de software para aplicar na prática meus conhecimentos em backend, APIs REST, bancos de dados e desenvolvimento web.
 
 ---
 
 ## 📂 Projetos em Desenvolvimento
+
+- **Controle de Validade**  
+  PWA desenvolvido com React, Vite e IndexedDB para controle de validade de produtos em supermercado.
 
 - **Sistema de Gestão de Usuários com Autenticação**  
   API REST com Node.js, Express e MySQL, incluindo autenticação com JWT e criptografia de senha.
