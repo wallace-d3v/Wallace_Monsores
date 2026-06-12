@@ -1,89 +1,69 @@
 # Olá, eu sou Wallace
 
-Estudante de tecnologia focado em **desenvolvimento backend**, construção de **APIs REST** e criação de soluções web práticas.  
-Atualmente estou desenvolvendo projetos reais para evoluir minhas habilidades e montar um portfólio profissional.
+Estudante de tecnologia focado em **desenvolvimento de software**, com interesse em **backend**, **aplicativos Android** e criação de soluções práticas para problemas reais.
+
+Atualmente estou desenvolvendo projetos para evoluir minhas habilidades e montar um portfólio profissional.
 
 ---
 
-## 🚀 Linguagens e Ferramentas
+## 🚀 Linguagens e Tecnologias
 
-### Linguagens
+### Linguagens que estou utilizando
 
-- JavaScript
-- Java
-- Python
+- Kotlin
 - C
-- PHP
-- SQL
-- HTML5
-- CSS3
+- JavaScript
 
 ### Backend
 
 - Node.js
-- Express
-- Java com Spring Boot
 - APIs REST
-- Autenticação com JWT
-- Criptografia de senhas
+- Estruturação de projetos backend
+- Boas práticas de organização de código
 
-### Frontend
+### Desenvolvimento Android
 
-- React
-- Vite
-- PWA
-- JavaScript moderno
-- HTML semântico
-- CSS responsivo
-
-### Banco de Dados
-
-- MySQL
-- PostgreSQL
-- IndexedDB
+- Kotlin
+- XML para interfaces Android
+- SQLite local para MVPs simples
 
 ### Ferramentas e Plataformas
 
 - Git
 - GitHub
-- GitHub Pages
-- GitHub Actions
-- VS Code
-- Insomnia/Postman
+- AndroidIDE
+- Replit
 - NPM
 
 ---
 
 ## 📌 Atualmente estudando
 
-- Arquitetura de backend
-- Desenvolvimento de APIs escaláveis
-- Banco de dados relacional
-- React e aplicações PWA
 - Kotlin para desenvolvimento Android
+- Backend com Node.js
+- APIs REST
+- Banco de dados local com SQLite
+- Lógica de programação com C
 - Boas práticas de versionamento com Git e GitHub
 
 ---
 
 ## 🎯 Objetivo
 
-Busco uma oportunidade de estágio ou vaga inicial em desenvolvimento de software para aplicar na prática meus conhecimentos em backend, APIs REST, bancos de dados e desenvolvimento web.
+Meu objetivo é evoluir como desenvolvedor de software, criar projetos reais para portfólio e desenvolver soluções web e mobile com foco em negócios reais.
 
 ---
 
 ## 📂 Projetos em Desenvolvimento
 
 - **Controle de Validade**  
-  PWA desenvolvido com React, Vite e IndexedDB para controle de validade de produtos em supermercado.
+  Projeto para controle de validade de produtos, inicialmente criado como versão web/PWA e em evolução para aplicativo Android.
 
-- **Sistema de Gestão de Usuários com Autenticação**  
-  API REST com Node.js, Express e MySQL, incluindo autenticação com JWT e criptografia de senha.
+- **App de Controle de Estoque para Hortifruti**  
+  Aplicativo Android local utilizando Kotlin, XML e SQLite para gerenciamento simples de produtos e estoque.
 
-- **Sistema Web de Gerenciamento de Tarefas**  
-  Aplicação para criação, organização e acompanhamento de tarefas com autenticação de usuários.
-
-- **API REST de Produtos com Spring Boot**  
-  Backend desenvolvido em Java com Spring Boot para cadastro e gerenciamento de produtos.
+- **App de Checklist Operacional para Mercado**  
+  Sistema mobile para acompanhamento de checklists operacionais, fotos e validações diárias feitas por gerentes.
 
 ---
 
